@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-const version string = "2.0.2"
+const version string = "3.0.0"
 
 // VersionHandler handles incoming requests to /version
 // and just returns a simple version number
